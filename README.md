@@ -1,0 +1,1 @@
+This project is a modern, responsive landing page for the Ultra Edit website, designed using HTML and CSS. The landing page aims to provide a visually appealing and user-friendly interface to introduce and promote the Ultra Edit application.
